@@ -12,3 +12,4 @@ Core topics:
 - Managing app state, following Singleton principles
 - Getters, Setters, Interfaces
 - Drag, Dropp events
+- webpack
